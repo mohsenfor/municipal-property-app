@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+data/property.db
+.env
+.DS_Store
+Thumbs.db
